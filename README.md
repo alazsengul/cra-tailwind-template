@@ -1,2 +1,1 @@
-# Chef
-🧑‍🍳 Anyone can cook.
+Create React App + Tailwind CSS template.
